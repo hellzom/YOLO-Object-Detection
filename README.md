@@ -1,5 +1,5 @@
 # YOLO-Object-Detection
-Real time Object detection on YouTube videos.
+Real time Object detection on YouTube videos using OpenCV and YOLO Algorithm
 
 
 #Basic Installation:
